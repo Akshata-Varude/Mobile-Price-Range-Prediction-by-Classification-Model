@@ -18,7 +18,7 @@ In this project following steps are involved.
 
 The outcome is a valuable tool that aids consumers and manufacturers in navigating the mobile phone market more effectively. With the continuous evolution of mobile technology, this project holds the potential for ongoing enhancements and contributions to the field of predictive analytics.
 
-#Problem Statement:-
+# Problem Statement:-
 In the current competitive mobile phone market, determining the optimal price range for a new mobile phone model is a crucial challenge for manufacturers and retailers. Pricing a mobile phone too high can deter potential buyers, while pricing it too low may result in missed revenue opportunities. Therefore, the primary objective of this project is to create a predictive model that can estimate the appropriate price range for a mobile phone, considering a wide array of technical features and characteristics.
 
 # Conclusion:-
