@@ -21,6 +21,12 @@ The outcome is a valuable tool that aids consumers and manufacturers in navigati
 # Problem Statement:-
 In the current competitive mobile phone market, determining the optimal price range for a new mobile phone model is a crucial challenge for manufacturers and retailers. Pricing a mobile phone too high can deter potential buyers, while pricing it too low may result in missed revenue opportunities. Therefore, the primary objective of this project is to create a predictive model that can estimate the appropriate price range for a mobile phone, considering a wide array of technical features and characteristics.
 
+# Main Libraries used:-
+1. Pandas for data manipulation and aggregation.
+2. Matplotlib and Seaborn for visualization and behavior with respect to the target variable.
+3. Numpy for computationally efficient operations.
+4. Scikit Learn for model training, model optimization, and metrics calculation.
+
 # Conclusion:-
 Certainly! Here's a paraphrased summary of observations and results:
 
