@@ -62,3 +62,7 @@ Certainly! Here's a paraphrased summary of observations and results:
     - Logistic Regression outperformed the other two models in terms of accuracy.
 
 In summary, the analysis indicates that certain features, especially RAM, battery power, and pixel specifications, play a crucial role in determining the price range of mobile phones. The implemented classification models, particularly Logistic Regression, demonstrated effective performance in classifying the data into the specified price ranges.
+
+
+For complete project video explaination and to downoad the dataset: 
+https://drive.google.com/drive/folders/1Rd8DoAzYkmoKcXY1Wngk0UsLd08Ju1xo?usp=drive_link
